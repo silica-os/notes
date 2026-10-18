@@ -9,7 +9,7 @@
 import 'package:flutter/foundation.dart';
 
 /// The object replacement character: one per inline widget.
-const String objectChar = '￼';
+const String objectChar = '\uFFFC';
 const int objectUnit = 0xFFFC;
 
 /// The inline style of one character.
