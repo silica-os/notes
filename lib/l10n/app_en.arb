@@ -1,0 +1,171 @@
+{
+  "@@locale": "en",
+  "addPhoto": "Add Photo",
+  "addPhotoMenu": "Add Photo…",
+  "allNotes": "All Notes",
+  "appTitle": "Notes",
+  "attachFile": "Attach File",
+  "attachFileMenu": "Attach File…",
+  "bestMatches": "Best Matches",
+  "bold": "Bold",
+  "bulletedList": "Bulleted List",
+  "cancel": "Cancel",
+  "checklist": "Checklist",
+  "checklists": "Checklists",
+  "clear": "Clear",
+  "copy": "Copy",
+  "create": "Create",
+  "cut": "Cut",
+  "dashedList": "Dashed List",
+  "decreaseIndent": "Decrease Indent",
+  "defaultFolder": "Notes",
+  "delete": "Delete",
+  "deleteEmptyFolderMessage": "The folder is empty.",
+  "deleteFolder": "Delete Folder",
+  "deleteForever": "Delete Permanently",
+  "deleteForeverMessage": "You can’t undo this action.",
+  "deleteForeverTitle": "Delete this note permanently?",
+  "duplicateNote": "Duplicate Note",
+  "emptyRecentlyDeleted": "Empty Recently Deleted",
+  "emptyTrashMessage": "The notes in Recently Deleted are removed permanently. You can’t undo this action.",
+  "emptyTrashTitle": "Delete all the notes in Recently Deleted?",
+  "folderNameEmpty": "Type a name for the folder.",
+  "folderNameInvalid": "A folder name can’t contain “/” or start with a dot.",
+  "folderNameTaken": "A folder with this name already exists.",
+  "folders": "Folders",
+  "format": "Format",
+  "groupByDate": "Group by Date",
+  "hideFolders": "Hide Folders",
+  "increaseIndent": "Increase Indent",
+  "italic": "Italic",
+  "markAsChecked": "Mark as Checked",
+  "menuEdit": "Edit",
+  "menuFile": "File",
+  "menuFont": "Font",
+  "menuFormat": "Format",
+  "menuHelp": "Help",
+  "menuIndentation": "Indentation",
+  "menuView": "View",
+  "menuWindow": "Window",
+  "moveTo": "Move To",
+  "newFolder": "New Folder",
+  "newFolderName": "New Folder",
+  "newNote": "New Note",
+  "noAdditionalText": "No additional text",
+  "noFileDialog": "The file dialog isn’t available.",
+  "noNoteSelected": "No Note Selected",
+  "noNotes": "No Notes",
+  "noResults": "No Results",
+  "notesSection": "Notes",
+  "numberedList": "Numbered List",
+  "ok": "OK",
+  "otherResults": "Other Results",
+  "paste": "Paste",
+  "pinNote": "Pin Note",
+  "pinned": "Pinned",
+  "previous30Days": "Previous 30 Days",
+  "previous7Days": "Previous 7 Days",
+  "recentlyDeleted": "Recently Deleted",
+  "recentlyEdited": "Recently Edited",
+  "recover": "Recover",
+  "recoverMessage": "Notes in Recently Deleted can’t be changed. Recover the note to change it.",
+  "recoverTitle": "Recover this note?",
+  "rename": "Rename",
+  "renameFolder": "Rename Folder",
+  "renameFolderItem": "Rename Folder…",
+  "search": "Search",
+  "searchNotes": "Search Notes",
+  "searching": "Searching",
+  "selectAll": "Select All",
+  "share": "Share",
+  "shareCopy": "Copy",
+  "showFolders": "Show Folders",
+  "smartFolders": "Smart Folders",
+  "sortBy": "Sort Notes By",
+  "sortCreated": "Date Created",
+  "sortEdited": "Date Edited",
+  "sortTitle": "Title",
+  "strikethrough": "Strikethrough",
+  "styleBody": "Body",
+  "styleHeading": "Heading",
+  "styleMono": "Monostyled",
+  "styleSubheading": "Subheading",
+  "styleTitle": "Title",
+  "tags": "Tags",
+  "today": "Today",
+  "underline": "Underline",
+  "unpinNote": "Unpin Note",
+  "viewAsGallery": "as Gallery",
+  "viewAsList": "as List",
+  "yesterday": "Yesterday",
+  "attachFailed": "Couldn’t attach {files}.",
+  "@attachFailed": {
+    "placeholders": {
+      "files": {
+        "type": "String"
+      }
+    }
+  },
+  "checklistDone": "{done} of {total} done",
+  "@checklistDone": {
+    "placeholders": {
+      "done": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "dateAtTime": "{date} at {time}",
+  "@dateAtTime": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteFolderMessage": "{count, plural, =1{Its note goes to Recently Deleted.} other{Its {count} notes go to Recently Deleted.}}",
+  "@deleteFolderMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteFolderTitle": "Delete the folder “{name}”?",
+  "@deleteFolderTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "notAnImage": "Not a picture: {files}.",
+  "@notAnImage": {
+    "placeholders": {
+      "files": {
+        "type": "String"
+      }
+    }
+  },
+  "noteCount": "{count, plural, =0{No notes} =1{1 note} other{{count} notes}}",
+  "@noteCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "searchResults": "{count, plural, =0{All notes, no results} =1{All notes, 1 result} other{All notes, {count} results}}",
+  "@searchResults": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}

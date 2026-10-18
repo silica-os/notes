@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Notes
+Name[it]=Note
+GenericName=Notes
+GenericName[it]=Note
+Comment=Write notes, checklists and ideas
+Comment[it]=Scrivi note, liste di controllo e idee
+Exec=@EMBEDDER@ --size 1120x720 --title Notes --app-id dev.frascella.Notes --multi-window @BUNDLE@
+Icon=accessories-text-editor
+X-Silica-Icon=notes
+StartupWMClass=dev.frascella.Notes
+Categories=Office;Utility;
+Keywords=notes;checklist;memo;
+Keywords[it]=note;appunti;lista;promemoria;
+Terminal=false
+OnlyShowIn=Silica;
